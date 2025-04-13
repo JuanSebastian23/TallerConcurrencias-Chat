@@ -1,0 +1,15 @@
+C:\Users\User\Documents\CONCURRECIA\TallerConcurrencias-Chat\TallerConcurrencias-Chat\bin\Debug\net8.0\TallerConcurrencias-Chat.exe
+C:\Users\User\Documents\CONCURRECIA\TallerConcurrencias-Chat\TallerConcurrencias-Chat\bin\Debug\net8.0\TallerConcurrencias-Chat.deps.json
+C:\Users\User\Documents\CONCURRECIA\TallerConcurrencias-Chat\TallerConcurrencias-Chat\bin\Debug\net8.0\TallerConcurrencias-Chat.runtimeconfig.json
+C:\Users\User\Documents\CONCURRECIA\TallerConcurrencias-Chat\TallerConcurrencias-Chat\bin\Debug\net8.0\TallerConcurrencias-Chat.dll
+C:\Users\User\Documents\CONCURRECIA\TallerConcurrencias-Chat\TallerConcurrencias-Chat\bin\Debug\net8.0\TallerConcurrencias-Chat.pdb
+C:\Users\User\Documents\CONCURRECIA\TallerConcurrencias-Chat\TallerConcurrencias-Chat\obj\Debug\net8.0\TallerConcurrencias-Chat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CONCURRECIA\TallerConcurrencias-Chat\TallerConcurrencias-Chat\obj\Debug\net8.0\TallerConcurrencias-Chat.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CONCURRECIA\TallerConcurrencias-Chat\TallerConcurrencias-Chat\obj\Debug\net8.0\TallerConcurrencias-Chat.AssemblyInfo.cs
+C:\Users\User\Documents\CONCURRECIA\TallerConcurrencias-Chat\TallerConcurrencias-Chat\obj\Debug\net8.0\TallerConcurrencias-Chat.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CONCURRECIA\TallerConcurrencias-Chat\TallerConcurrencias-Chat\obj\Debug\net8.0\TallerConcurrencias-Chat.sourcelink.json
+C:\Users\User\Documents\CONCURRECIA\TallerConcurrencias-Chat\TallerConcurrencias-Chat\obj\Debug\net8.0\TallerConcurrencias-Chat.dll
+C:\Users\User\Documents\CONCURRECIA\TallerConcurrencias-Chat\TallerConcurrencias-Chat\obj\Debug\net8.0\refint\TallerConcurrencias-Chat.dll
+C:\Users\User\Documents\CONCURRECIA\TallerConcurrencias-Chat\TallerConcurrencias-Chat\obj\Debug\net8.0\TallerConcurrencias-Chat.pdb
+C:\Users\User\Documents\CONCURRECIA\TallerConcurrencias-Chat\TallerConcurrencias-Chat\obj\Debug\net8.0\TallerConcurrencias-Chat.genruntimeconfig.cache
+C:\Users\User\Documents\CONCURRECIA\TallerConcurrencias-Chat\TallerConcurrencias-Chat\obj\Debug\net8.0\ref\TallerConcurrencias-Chat.dll
