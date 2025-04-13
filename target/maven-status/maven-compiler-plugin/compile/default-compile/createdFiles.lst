@@ -1,0 +1,14 @@
+com\taller\client\ChatClient.class
+com\taller\server\MockClientHandler.class
+com\taller\server\ClientHandler.class
+com\taller\message\TextMessage.class
+com\taller\client\SimulatedChatClient.class
+com\taller\message\AlertMessage.class
+com\taller\server\ChatServer$Handler.class
+com\taller\server\ChatServer.class
+com\taller\client\SimulatedChatClient$1.class
+com\taller\message\Message.class
+com\taller\message\MessageFactory.class
+com\taller\message\NotificationMessage.class
+com\taller\client\ChatClient$1.class
+com\taller\server\MockServer.class
