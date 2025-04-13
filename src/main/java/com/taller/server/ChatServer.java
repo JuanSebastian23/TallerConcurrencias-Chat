@@ -91,4 +91,9 @@ public class ChatServer {
             }
         }
     }
+
+    public static Thread getInstance() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'getInstance'");
+    }
 } 
